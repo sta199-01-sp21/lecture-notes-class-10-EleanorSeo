@@ -2,8 +2,10 @@
 title: "Introduction to probability"
 author: "Eleanor Seo"
 date: "2/22/2021"
-output: html_document
-editor_options: 
+output:
+  pdf_document: default
+  html_document: default
+editor_options:
   chunk_output_type: console
 ---
 
